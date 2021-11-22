@@ -46,10 +46,13 @@ After starting the project with spring boot, check the port where the project st
 }
 
 ```
+![post](https://user-images.githubusercontent.com/48499649/142878633-6c29017f-6dea-4c87-a6bc-7d8aa5ced8d5.PNG)
 
 After that, it will be possible to list your registered clients using the GET method (localhost:8080/clients). 
-And finally, it is also possible to delete a specific customer by id with the DELETE method just passing your id number, for example: localhost:8080/clients/1
+![get](https://user-images.githubusercontent.com/48499649/142878735-80812c27-20ed-464d-a069-73621c5d9196.PNG)
 
+And finally, it is also possible to delete a specific customer by id with the DELETE method just passing your id number, for example: localhost:8080/clients/5
+![delete](https://user-images.githubusercontent.com/48499649/142878783-db968036-38eb-4af4-b66a-55132e9de9c2.PNG)
 
 
 
