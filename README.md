@@ -46,9 +46,6 @@ After starting the project with spring boot, check the port where the project st
 }
 
 ```
-<p align="center">
-  <img src="RegistrationClientApi/post.PNG" width="350" title="hover text">
-</p>
 
 After that, it will be possible to list your registered clients using the GET method (localhost:8080/clients). 
 And finally, it is also possible to delete a specific customer by id with the DELETE method just passing your id number, for example: localhost:8080/clients/1
